@@ -35,3 +35,14 @@ backups/
 # Temporary files
 *.tmp
 *.temp
+
+# Build artifacts
+build/
+dist/
+*.spec
+release/
+release_*/
+*.zip
+
+# Generated icon files
+hyundai_music_icon.ico
