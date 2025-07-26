@@ -1,0 +1,17 @@
+# Spotify API Configuration Example
+# Copy this file to config.py and fill in your actual credentials
+
+# To get your Spotify API credentials:
+# 1. Go to https://developer.spotify.com/dashboard/
+# 2. Log in with your Spotify account
+# 3. Click "Create an App"
+# 4. Fill in the app name and description
+# 5. Copy the Client ID and Client Secret from your app dashboard
+
+SPOTIFY_CLIENT_ID = 'YOUR_CLIENT_ID_HERE'
+SPOTIFY_CLIENT_SECRET = 'YOUR_CLIENT_SECRET_HERE'
+
+# IMPORTANT: 
+# - Replace the placeholder values above with your actual credentials
+# - Rename this file to config.py (remove .example)
+# - Never share your actual config.py file publicly!
